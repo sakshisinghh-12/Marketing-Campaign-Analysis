@@ -3,7 +3,7 @@
 A/B Testing – Marketing Campaign Analysis
 This project analyzes the effectiveness of marketing campaigns through A/B testing using Python. The goal is to determine whether the variation in the campaign (Group B) leads to a statistically significant improvement in conversion rates compared to the control group (Group A).
 
-Key Highlights:
+# Key Highlights:
 
 -Performed data cleaning and exploratory data analysis (EDA) to understand campaign performance metrics.
 
